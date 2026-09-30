@@ -1,7 +1,7 @@
 # Student Result Processing CLI
 
 ## Student Details
-- Name: Suvithra
+- Name: Sahana
 - Department: CSE
 - Assignment: Assignment 1
 - Project: Student Result Processing CLI Application
@@ -34,18 +34,18 @@ student-result-cli
 
 Student Result Processing System
 
-Enter Name: Suvithra
-Enter Register No: 71052402105
-Enter Mark 1: 91
-Enter Mark 2: 96
-Enter Mark 3: 94
+Enter Name: Sahana
+Enter Register No: 71052402088
+Enter Mark 1: 99
+Enter Mark 2: 99
+Enter Mark 3: 98
 
 ----- RESULT -----
-Name: Suvithra
-Register No: 71052402105
-Total: 281
-Average: 93
-Grade: A
+Name: sahana
+Register No: 71052402088
+Total: 296
+Average: 98
+Grade: A+
 
 ## GitHub Repository
 
