@@ -1,7 +1,7 @@
 # Student Result Processing CLI
 
 ## Student Details
-- Name: Nandhini
+- Name: Suvithra
 - Department: CSE
 - Assignment: Assignment 1
 - Project: Student Result Processing CLI Application
@@ -34,20 +34,20 @@ student-result-cli
 
 Student Result Processing System
 
-Enter Name: Nandhini
-Enter Register No: 71052402074
-Enter Mark 1: 90
-Enter Mark 2: 98
-Enter Mark 3: 95
+Enter Name: Suvithra
+Enter Register No: 71052402105
+Enter Mark 1: 91
+Enter Mark 2: 96
+Enter Mark 3: 94
 
 ----- RESULT -----
-Name: Nandhini
-Register No: 71052402074
-Total: 283
-Average: 94
+Name: Suvithra
+Register No: 71052402105
+Total: 281
+Average: 93
 Grade: A
 
 ## GitHub Repository
 
 Repository Link:
-https://github.com/nandhinipazhamalai-png/student-result-cli
+https://github.com/Suvithra-hub/Student_Result.git
